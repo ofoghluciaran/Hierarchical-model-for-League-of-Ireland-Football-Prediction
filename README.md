@@ -11,3 +11,6 @@ We aim to estimate the latent parameters—specifically, the strength of each te
 In many cases, the exact Bayesian Model we require may not be explicitly defined, so we must approximate it. When a problem is too complex to solve directly, we employ approximation methods.
 
 **Markov-Chain Monte Carlo** (MCMC) is used to draw samples from the posterior distribution. This versatile algorithm can be applied to nearly any model.
+
+
+![Latent Variables](https://github.com/ofoghluciaran/Hierarchical-model-for-League-of-Ireland-Football-Prediction/blob/main/Latent%20Variables.png)
