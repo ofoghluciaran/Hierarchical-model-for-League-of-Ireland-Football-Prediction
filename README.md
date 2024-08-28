@@ -14,3 +14,11 @@ In many cases, the exact Bayesian Model we require may not be explicitly defined
 
 
 ![Latent Variables](https://github.com/ofoghluciaran/Hierarchical-model-for-League-of-Ireland-Football-Prediction/blob/main/Latent%20Variables.png)
+
+
+## References
+
+Coyle, Peadar. *Probabilistic Programming and PyMC3*. 2016.
+
+Baio, G., & Blangiardo, M. (2010). *Bayesian hierarchical model for the prediction of football results*. *Journal of Applied Statistics, 37*(2), 253-264. [https://doi.org/10.1080/02664760802684177](https://doi.org/10.1080/02664760802684177). Taylor & Francis. SourceRePEc.
+
